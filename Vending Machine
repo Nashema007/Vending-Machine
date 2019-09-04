@@ -1,0 +1,8 @@
+ The purpose of this program is to create a vending machine that offers 5 products.
+ The machine accepts only pennies, dimes, nickels, quarters, one dollar bills, and 5 dollar bills. 
+ User can indicate all the money has finished inserting by entering 0, then the machine will total amount of money has inserted
+ The selections available for user are numbers from 1 to 5.
+ The machine allows user to choose more than 1 products
+ User can stop the selection process any time by entering 0. the machine will total the amount that will be charged
+ If the user chooses to cancel the selection, the machine returns the initial amount in coins.
+ If the total inserted amount is less than the total charged amount, the machine will display a "do not have efficient fund" message.
